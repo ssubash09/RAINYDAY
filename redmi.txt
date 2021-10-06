@@ -6,7 +6,7 @@ kkr
 delhi
 punjab
 rcb
-
+new
 command to add
 
 command to use
