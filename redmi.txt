@@ -6,3 +6,7 @@ kkr
 delhi
 punjab
 rcb
+
+command to add
+
+command to use
