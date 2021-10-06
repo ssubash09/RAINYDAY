@@ -7,3 +7,12 @@ kkr
 delhi
 punjab
 rcb
+<<<<<<< HEAD
+=======
+new
+command to add
+
+command to use
+
+hi
+>>>>>>> refs/remotes/origin/master
